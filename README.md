@@ -76,16 +76,18 @@ A dashboard analysing HR demographics, including:
 - Department-level insights
 - Overall headcount overview
 
-**Dashboard Link:** [HR Dashboard – Tableau Public] 
-![HR Demographics Dashboard](HR Dashboard Screenshot.png) 
+**[Dashboard Link:](https://public.tableau.com/views/USAHRDashboardEasternRegion/HRDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** [HR Dashboard – Tableau Public] 
+
+![HR Dashboard Screenshot](https://github.com/kibiipatrick/tableau-projects/blob/de82aa842228ee6142928b5ee1083d7e49b601f0/hr_dashboard_crash/HR%20Dashboard%20Screenshot.png)
 
 ---
 
 ### 2. Tableau Course Capstone Project
 A guided end-to-end Tableau project completed as part of the *Tableau Zero to Hero* course.
 
-**Project Link:** [Course Project Dashboard]  
-📸 *Screenshot attached*
+**[Project Link:](https://public.tableau.com/views/USASales_17645418472330/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** [Course Project Dashboard]  
+
+![Course Project Dashboard](https://github.com/kibiipatrick/tableau-projects/blob/de82aa842228ee6142928b5ee1083d7e49b601f0/sales_dashboard_in_course/Sales%20Dashboard%20Screenshot.png)
 
 ---
 
